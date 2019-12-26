@@ -1,1 +1,27 @@
+Group object oriented design feedback and mark
+Criteria	Ratings	Points
 
+Requirements specification
+Comments
+Good set of sensible assumptions.
+Good use case diagrams and explanations. The use cases miss out actions by warehouse staff.
+13 / 20 pts
+
+Static design model
+Comments
+Good class diagram though no use of modelling features like inheritance, composition, navigability.
+Good class descriptions; some could do with more detail.
+22 / 30 pts
+
+Dynamic design model
+Comments
+Sequence diagrams coherent with class diagram, but lack detail (arguments).
+Coherent (but rather simple) state diagram models.
+21 / 30 pts
+
+Overall presentation and quality
+Comments
+Good presentation, particularly of use cases. But a few inconsistencies.
+13 / 20 pts
+
+Total points: 69
